@@ -2,10 +2,10 @@
 
 namespace Database\Seeders;
 
-use Database\Factories\Models\PetFactory;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Database\Factories\PetFactory;
 use Illuminate\Database\Seeder;
-use App\Models\Pet; // Replace with your actual model path
+
+// Replace with your actual model path
 
 class PetSeeder extends Seeder
 {
